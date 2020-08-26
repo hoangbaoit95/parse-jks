@@ -1,7 +1,7 @@
 # JKS-JS
 
 [![npm](https://img.shields.io/npm/v/parse-jks?color=blue&style=flat-square)](https://www.npmjs.com/package/parse-jks)
-[![test](https://github.com/lenchv/jks-js/workflows/test/badge.svg?branch=master&event=push)](https://github.com/hoangbaoit95/parse-jks/actions?query=workflow%3Atest+branch%3Amaster)
+[![test](https://github.com/hoangbaoit95/parse-jks/workflows/test/badge.svg?branch=master&event=push)](https://github.com/hoangbaoit95/parse-jks/actions?query=workflow%3Atest+branch%3Amaster)
 
 ## Description
 
