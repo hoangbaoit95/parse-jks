@@ -1,23 +1,23 @@
-# JKS-JS
+# PARSE-JKS
 
 [![npm](https://img.shields.io/npm/v/parse-jks?color=blue&style=flat-square)](https://www.npmjs.com/package/parse-jks)
 [![test](https://github.com/hoangbaoit95/parse-jks/workflows/test/badge.svg?branch=master&event=push)](https://github.com/hoangbaoit95/parse-jks/actions?query=workflow%3Atest+branch%3Amaster)
 
 ## Description
 
-**jks-js** is a converter of [Java Keystore](https://en.wikipedia.org/wiki/Java_KeyStore) to PEM certificates in order to securely connect to Java based servers using node js.
+**parse-jks** is a converter of [Java Keystore](https://en.wikipedia.org/wiki/Java_KeyStore) to PEM certificates in order to securely connect to Java based servers using node js.
 
 ## Installation
 
 ```javascript
-npm install jks-js
+npm install parse-jks
 ```
 
 ## Usage
 
 ```javascript
 ...
-const jks = require('jks-js');
+const jks = require('parse-jks');
 
 const keystore = jks.toPem(
 	fs.readFileSync('keystore.jks'),
@@ -76,7 +76,7 @@ const {
 	 * @return decoded private key 
 	 */
 	decrypt
-} = require('jks-js');
+} = require('parse-jks');
 ```
 
 ## How it works
