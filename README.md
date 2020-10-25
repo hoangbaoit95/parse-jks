@@ -97,4 +97,4 @@ If you find any troubles feel free to create an issue.
 
 [MIT License](LICENSE)
 
-Copyright (c) 2020 Bao Pham
+Copyright (c) 2020 Volodymyr Liench
